@@ -3,8 +3,10 @@
 <!-- <h1 hidden>WinRice</h1> -->
 </p>
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=283434806" height="20">](https://api.gitsponsors.com/api/badge/link?p=RwyyBnX3F8HnqyiEAdkk0PvyzHsoVQ8GbdxwdnJICc+jNXGxl5FqVNF/MlzMJ/tMzdwoM8gx1ufCXtJbk+Hzl+p5omK1bzbu2YJL5Pjw9R6Y5gcy26gSvoJyZcGxdCE+w1Of1RZ6VWlZMQKMYFTlcQ==)
+
 <p align="center">
-<img alt="No. of downloads" src="https://img.shields.io/github/downloads/pratyakshm/WinRice/total">  <img alt="GitHub issues" src="https://img.shields.io/github/issues/pratyakshm/WinRice">   <img alt="Platform support" src="https://img.shields.io/badge/Windows%2011-Ready-blue?&logo=windows11">  <img alt="Platform support" src="https://img.shields.io/badge/Windows%2010-Ready-blue?&logo=windows">
+<img alt="No. of downloads" src="https://img.shields.io/github/downloads/pratyakshm/WinRice/total">  <img alt="GitHub issues" src="https://img.shields.io/github/issues/pratyakshm/WinRice">   <img alt="Platform support" src="https://img.shields.io/badge/Windows%2011-Ready-blue?&logo=windows11">  <img alt="Platform support" src="https://img.shields.io/badge/Windows%2010-Ready-blue?&logo=windows"> 
 </p>
 
 <p align="center">
